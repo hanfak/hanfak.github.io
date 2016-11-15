@@ -18,10 +18,11 @@ Some useful posts about learning coding, design principles and guides....coverin
 - Code Smells
 - Regular Expressions
 - Agile and Xtreme Programming
-- Pairing
+- Pair Programming
 - Algorithms(Sorting, Searching), Big O
 - Collections (arrays, linked list, queues, stacks..)
+- Databases
 
-Yes there is a lot here, but most of it is just a repository of my own thoughts and lots of links to other places. This is mainly a refernce (hence the title) for me and secondly to help anyone else.
+Yes there is a lot here, but most of it is just a repository of my own thoughts and lots of links to other places. This is mainly a reference (hence the title) for me and secondly to help anyone else.
 
 **More to come!!!**
