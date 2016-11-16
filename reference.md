@@ -12,7 +12,7 @@ Some useful posts about learning coding, design principles and guides....coverin
 - Object Oriented programming
 - [Object Oriented Design Principles](/List-of-design-principles/)
 - Desing Patterns
-- Git and Github
+- [Git and Github](/Git-and-Github/)
 - Test Driven Design
 - Behaviour Driven Design
 - Refactoring
