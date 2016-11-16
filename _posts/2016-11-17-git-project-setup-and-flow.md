@@ -46,6 +46,8 @@ This is most common actions I have performed when using git. It would be best to
 
 Key tips:
 
+`Commit early, commit often`
+
 `Alway commit after each passing test and after a refactor`
 
 `Always write commit messages which mean something and refer to user stories`

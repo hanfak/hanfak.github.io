@@ -31,24 +31,24 @@ Here are some commands and actions that I have used, posts for each will come la
 ### <a name="links">Links</a>
 
 #### General
-- https://www.atlassian.com/git/tutorials/what-is-version-control/
-- https://www.tutorialspoint.com/git/git_life_cycle.htm
-- https://www.learnenough.com/git-tutorial
-- http://www-cs-students.stanford.edu/~blynn/gitmagic/
-- http://marklodato.github.io/visual-git-guide/index-en.html
+- [https://www.atlassian.com/git/tutorials/what-is-version-control/]
+- [https://www.tutorialspoint.com/git/git_life_cycle.htm]
+- [https://www.learnenough.com/git-tutorial]
+- [http://www-cs-students.stanford.edu/~blynn/gitmagic/]
+- [http://marklodato.github.io/visual-git-guide/index-en.html]
 
 
 #### Documentation
 
-- https://git-scm.com/docs/gittutorial
-- https://guides.github.com/
-- https://help.github.com/
-- http://gitref.org/
+- [https://git-scm.com/docs/gittutorial]
+- [https://guides.github.com/]
+- [https://help.github.com/]
+- [http://gitref.org/]
 
 #### Tutorials
 
-- https://try.github.io/levels/1/challenges/1
-- http://gitimmersion.com/
-- http://rogerdudler.github.io/git-guide/
-- https://github.com/jlord/git-it
-- http://learngitbranching.js.org/
+- [https://try.github.io/levels/1/challenges/1]
+- [http://gitimmersion.com/]
+- [http://rogerdudler.github.io/git-guide/]
+- [https://github.com/jlord/git-it]
+- [http://learngitbranching.js.org/]
