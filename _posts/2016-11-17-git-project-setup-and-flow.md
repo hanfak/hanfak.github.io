@@ -32,25 +32,25 @@ This is most common actions I have performed when using git. It would be best to
 
   2. To see what files were changed and/or created do ```git status```
 
-    - To show the difference that have been made from last commit do ```git diff HEAD```
+      - To show the difference that have been made from last commit do ```git diff HEAD```
   3. Add unstaged changes ie ```git add README.md ```
 
-    - To add several files do ``` git add file1.md file2.md``` and continue adding other files
-    - To add all the files do ```git add . ```
-    - To go through each file see the changes before adding do ```git add --patch```
+      - To add several files do ``` git add file1.md file2.md``` and continue adding other files
+      - To add all the files do ```git add . ```
+      - To go through each file see the changes before adding do ```git add --patch```
 
   4. To commit staged files with short commit message do ```git commit -m 'description of changes'```
 
-    - To add more details to the commit message do ```git commit```.
-    - This will take you to vim editor in the terminal
+      - To add more details to the commit message do ```git commit```.
+      - This will take you to vim editor in the terminal
 
-      - To start typing press ```a```
-      - To save, press esc then type ```:wq```
-      - To abort commit type press esc then type ```:q!```
+        - To start typing press ```a```
+        - To save, press esc then type ```:wq```
+        - To abort commit type press esc then type ```:q!```
   5. To push commits do ```git push origin master``` (only push the master branch)
-  
-    - To push all branches do ```git push origin --all```
-    - Can also do ```git push``` to push to master branch if followed setup when creating repository on Github.
+
+      - To push all branches do ```git push origin --all```
+      - Can also do ```git push``` to push to master branch, if followed setup when creating repository on Github.
   6. Repeat
 
 Key tips:
