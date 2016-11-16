@@ -6,6 +6,7 @@ permalink: /reference/
 
 Some useful posts about learning coding, design principles and guides....covering:
 
+- Bash/Terminal
 - Programming Language Features
 - Katas to practise
 - Object Oriented programming

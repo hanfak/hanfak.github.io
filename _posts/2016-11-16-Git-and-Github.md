@@ -31,24 +31,29 @@ Here are some commands and actions that I have used, posts for each will come la
 ### <a name="links">Links</a>
 
 #### General
-- [https://www.atlassian.com/git/tutorials/what-is-version-control/]
-- [https://www.tutorialspoint.com/git/git_life_cycle.htm]
-- [https://www.learnenough.com/git-tutorial]
-- [http://www-cs-students.stanford.edu/~blynn/gitmagic/]
-- [http://marklodato.github.io/visual-git-guide/index-en.html]
+- [https://www.atlassian.com/git/tutorials/what-is-version-control/](https://www.atlassian.com/git/tutorials/what-is-version-control/)
+- [https://www.tutorialspoint.com/git/git_life_cycle.htm](https://www.tutorialspoint.com/git/git_life_cycle.htm)
+- [https://www.learnenough.com/git-tutorial](https://www.learnenough.com/git-tutorial)
+- [http://www-cs-students.stanford.edu/~blynn/gitmagic/](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+- [http://marklodato.github.io/visual-git-guide/index-en.html](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 
 #### Documentation
 
-- [https://git-scm.com/docs/gittutorial]
-- [https://guides.github.com/]
-- [https://help.github.com/]
-- [http://gitref.org/]
+- [https://git-scm.com/docs/gittutorial](https://git-scm.com/docs/gittutorial)
+- [https://guides.github.com/](https://guides.github.com/)
+- [https://help.github.com/](https://help.github.com/)
+- [http://gitref.org/](http://gitref.org/)
 
 #### Tutorials
 
-- [https://try.github.io/levels/1/challenges/1]
-- [http://gitimmersion.com/]
-- [http://rogerdudler.github.io/git-guide/]
-- [https://github.com/jlord/git-it]
-- [http://learngitbranching.js.org/]
+- [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1)
+- [http://gitimmersion.com/](http://gitimmersion.com/)
+- [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/)
+- [https://github.com/jlord/git-it](https://github.com/jlord/git-it)
+- [http://learngitbranching.js.org/](http://learngitbranching.js.org/)
+
+
+#### Specific help
+
+Search [Stack overflow](http://stackoverflow.com/)in google for similar problem. If problem does not exist, highly likely it will, sign up to stack overflow and post a question.
