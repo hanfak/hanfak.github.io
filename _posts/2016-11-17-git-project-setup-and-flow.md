@@ -25,11 +25,10 @@ This is most common actions I have performed when using git. It would be best to
 
   1. Create or add to files, for example:
 
-    1. Create readme as first commit ie ```touch README.md```
-    2. Open file (use own text editor ie vim, atom etc)
-    3. Add or make changes to file
-    4. Save file
-
+      1. Create readme as first commit ie ```touch README.md```
+      2. Open file (use own text editor ie vim, atom etc)
+      3. Add or make changes to file
+      4. Save file
   2. To see what files were changed and/or created do ```git status```
 
       - To show the difference that have been made from last commit do ```git diff HEAD```
