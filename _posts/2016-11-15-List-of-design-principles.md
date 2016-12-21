@@ -5,6 +5,13 @@ title: Design Principles
 
 **Well designed code is when it is easy to maintain, reuse, extend and read**
 
+Other ideas:
+  - Don't have to change as much ie change only in one place
+  - Manging dependencies, reducing coupling
+  - High cohesion, low coupling
+  - code/software is not fraglie, rigid
+  - design only matters when you want to change it
+
 Why?
 
 In short, **because everything changes**. Thus need to change code, match these changes.
